@@ -2,19 +2,19 @@
   <img src="./assets/banner.svg" alt="Okechukwu Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xinfinitygen&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
+</p>
+
 ---
 
-# Hi, I'm Okechukwu.
+## About Me
 
-> **Frontend Engineer** building responsive, accessible, and high-performance web experiences.
+I'm a Frontend Engineer passionate about building responsive, accessible, and high-performance web applications.
 
-I enjoy turning ideas into polished digital products through thoughtful design, clean code, and continuous learning.
+I enjoy transforming ideas into polished digital experiences through clean architecture, thoughtful UI, and continuous learning.
 
-**Current Focus**
-- Building production-ready frontend applications
-- Mastering React ecosystem
-- Writing maintainable code
-- Learning in public
+Currently focused on shipping real-world projects, deepening my React expertise, and contributing to open source.
 
 ---
 
@@ -40,8 +40,20 @@ Version       : v1.0.0
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,git,github,vscode,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode,figma,npm" />
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xinfinitygen&show_icons=true&hide_border=true&theme=transparent" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinfinitygen&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Xinfinitygen&theme=transparent&hide_border=true"/>
 </p>
 
 ## Featured Projects
