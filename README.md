@@ -57,11 +57,31 @@ Version       : v1.0.0
 <img src="https://streak-stats.demolab.com?user=Xinfinitygen&theme=transparent&hide_border=true"/>
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌦️ Weather App | Real-time weather application with location support |
-| 📝 Form Validation | Responsive signup form with real-time validation |
-| 🛒 Checkout Page | Modern React checkout experience |
-| 🧩 Browser Extension | Productivity extension currently in development |
+### 🌤️ Weather App
+A responsive weather application that provides real-time weather conditions, 5-day forecasts, geolocation support, and search history.
+
+**Tech Stack:** React • JavaScript • CSS • Open-Meteo API
+
+🔗 **Live Demo:** *https://weatherly.sa.pipeops.app/*  
+📂 **Source Code:** https://github.com/Xinfinitygen/Weather-App.git
+
+---
+
+### 📝 Form Validation
+A modern registration form featuring real-time validation, error handling, and a responsive user interface.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **Live Demo:** *https://formzen.sa.pipeops.app/*  
+📂 **Source Code:** https://github.com/Xinfinitygen/Weather-App.git
+
+---
+
+### 🧩 Browser Extension *(In Progress)*
+A productivity-focused browser extension designed to streamline daily workflows with a clean, distraction-free interface.
+
+**Tech Stack:** React • JavaScript
+
+🔗 **Status:** Currently in development
