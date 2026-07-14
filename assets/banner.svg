@@ -1,41 +1,113 @@
-<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="640" fill="#09090B"/>
+<svg width="1280" height="400" viewBox="0 0 1280 400" fill="none" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Background -->
+  <rect width="1280" height="400" fill="#09090B"/>
+
+  <!-- Grid -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="400" fill="url(#grid)"/>
+
+  <!-- Accent Line -->
+  <rect x="80" y="70" width="6" height="220" rx="3" fill="#3B82F6"/>
+
+  <!-- Name -->
   <text
-    x="90"
-    y="180"
+    x="110"
+    y="130"
     fill="white"
-    font-size="88"
-    font-family="Space Grotesk, Arial, sans-serif"
+    font-size="58"
+    font-family="Arial"
     font-weight="700">
     OKECHUKWU
   </text>
 
+  <!-- Role -->
   <text
-    x="95"
-    y="245"
+    x="110"
+    y="170"
     fill="#3B82F6"
-    font-size="28"
-    letter-spacing="10"
-    font-family="Space Grotesk, Arial, sans-serif">
+    font-size="22"
+    font-family="Arial">
     FRONTEND ENGINEER
   </text>
 
+  <!-- Description -->
   <text
-    x="95"
-    y="320"
+    x="110"
+    y="235"
     fill="#CBD5E1"
-    font-size="26"
-    font-family="Inter, Arial, sans-serif">
-    Building products that people enjoy using.
+    font-size="24"
+    font-family="Arial">
+    Building thoughtful web experiences through clean architecture.
   </text>
 
   <text
-    x="95"
-    y="365"
+    x="110"
+    y="270"
     fill="#CBD5E1"
-    font-size="26"
-    font-family="Inter, Arial, sans-serif">
-    Thoughtful UI. Clean Code. Continuous Growth.
+    font-size="24"
+    font-family="Arial">
+    Dream. Code. Repeat.
   </text>
+
+  <!-- Developer OS -->
+  <rect
+    x="820"
+    y="70"
+    width="360"
+    height="250"
+    rx="18"
+    fill="#111827"
+    stroke="#374151"/>
+
+  <text
+    x="850"
+    y="110"
+    fill="#3B82F6"
+    font-size="20"
+    font-family="Courier New">
+    Developer OS
+  </text>
+
+  <text
+    x="850"
+    y="150"
+    fill="white"
+    font-size="18"
+    font-family="Courier New">
+    STATUS: ONLINE
+  </text>
+
+  <text
+    x="850"
+    y="185"
+    fill="white"
+    font-size="18"
+    font-family="Courier New">
+    BUILD: Browser Extension
+  </text>
+
+  <text
+    x="850"
+    y="220"
+    fill="white"
+    font-size="18"
+    font-family="Courier New">
+    LEARNING: React
+  </text>
+
+  <text
+    x="850"
+    y="255"
+    fill="white"
+    font-size="18"
+    font-family="Courier New">
+    NEXT: Open Source
+  </text>
+
 </svg>
