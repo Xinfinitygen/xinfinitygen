@@ -1,0 +1,41 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#09090B"/>
+
+  <text
+    x="90"
+    y="180"
+    fill="white"
+    font-size="88"
+    font-family="Space Grotesk, Arial, sans-serif"
+    font-weight="700">
+    OKECHUKWU
+  </text>
+
+  <text
+    x="95"
+    y="245"
+    fill="#3B82F6"
+    font-size="28"
+    letter-spacing="10"
+    font-family="Space Grotesk, Arial, sans-serif">
+    FRONTEND ENGINEER
+  </text>
+
+  <text
+    x="95"
+    y="320"
+    fill="#CBD5E1"
+    font-size="26"
+    font-family="Inter, Arial, sans-serif">
+    Building products that people enjoy using.
+  </text>
+
+  <text
+    x="95"
+    y="365"
+    fill="#CBD5E1"
+    font-size="26"
+    font-family="Inter, Arial, sans-serif">
+    Thoughtful UI. Clean Code. Continuous Growth.
+  </text>
+</svg>
