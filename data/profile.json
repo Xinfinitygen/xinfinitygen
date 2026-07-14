@@ -1,0 +1,14 @@
+{
+  "name": "Okechukwu",
+  "role": "Frontend Engineer",
+  "status": "🟢 Building",
+  "mission": "Building products people genuinely enjoy using.",
+  "currentBuild": "Browser Extension",
+  "learning": [
+    "React",
+    "Performance",
+    "Accessibility"
+  ],
+  "nextTarget": "Open Source Contributions",
+  "version": "v1.0.0"
+}

@@ -18,6 +18,7 @@ I enjoy turning ideas into polished digital products through thoughtful design, 
 
 ---
 
+
 ## Developer OS
 
 ```console
@@ -26,7 +27,7 @@ I enjoy turning ideas into polished digital products through thoughtful design, 
 Name          : Okechukwu
 Role          : Frontend Engineer
 Status        : 🟢 Building
-Mission       : Build products people genuinely enjoy using.
+Mission       : Building products people genuinely enjoy using.
 
 Current Build : Browser Extension
 Learning      : React • Performance • Accessibility
@@ -34,6 +35,7 @@ Next Target   : Open Source Contributions
 
 Version       : v1.0.0
 ```
+
 
 ## Tech Stack
 
