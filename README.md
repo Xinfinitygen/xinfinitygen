@@ -18,16 +18,34 @@ I enjoy turning ideas into polished digital products through thoughtful design, 
 
 ---
 
-<!-- DEVELOPER OS -->
+## Developer OS
 
-<!-- CURRENT MISSION -->
+```console
+> booting developer.profile...
 
-<!-- TECH STACK -->
+Name          : Okechukwu
+Role          : Frontend Engineer
+Status        : 🟢 Building
+Mission       : Build products people genuinely enjoy using.
 
-<!-- FEATURED PROJECTS -->
+Current Build : Browser Extension
+Learning      : React • Performance • Accessibility
+Next Target   : Open Source Contributions
 
-<!-- GITHUB ANALYTICS -->
+Version       : v1.0.0
+```
 
-<!-- RECENT ACTIVITY -->
+## Tech Stack
 
-<!-- CONNECT -->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,git,github,vscode,figma" />
+</p>
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌦️ Weather App | Real-time weather application with location support |
+| 📝 Form Validation | Responsive signup form with real-time validation |
+| 🛒 Checkout Page | Modern React checkout experience |
+| 🧩 Browser Extension | Productivity extension currently in development |
