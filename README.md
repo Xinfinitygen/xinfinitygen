@@ -52,9 +52,9 @@ Version       : v1.0.0
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xinfinitygen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xinfinitygen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinfinitygen&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xinfinitygen&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 </p>
 
 <p align="center">
