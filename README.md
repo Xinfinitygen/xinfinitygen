@@ -2,19 +2,19 @@
   <img src="./assets/banner.svg" alt="Okechukwu Banner" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xinfinitygen&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
-</p>
+</p> -->
 
 ---
 
 ## About Me
 
-I'm a Frontend Engineer focused on building responsive, accessible, and performant web applications that deliver exceptional user experiences.
+I'm a Frontend Engineer passionate about building responsive, accessible, and high-performance web applications.
 
-I enjoy transforming ideas into polished digital products through clean architecture, thoughtful UI, and continuous iteration.
+I enjoy transforming ideas into polished digital experiences through clean architecture, thoughtful UI, and continuous learning.
 
-Currently building production-ready projects, deepening my React expertise, and preparing to contribute to open source.
+Currently focused on shipping real-world projects, deepening my React expertise, and contributing to open source.
 
 ---
 
