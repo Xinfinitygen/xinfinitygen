@@ -48,14 +48,16 @@ Version       : v1.0.0
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xinfinitygen&show_icons=true&hide_border=true&theme=transparent" />
+## 📊 GitHub Analytics
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinfinitygen&layout=compact&hide_border=true&theme=transparent" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xinfinitygen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinfinitygen&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Xinfinitygen&theme=transparent&hide_border=true"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xinfinitygen&theme=github-compact&hide_border=true" />
 </p>
 
 ## 🚀 Featured Projects
@@ -86,3 +88,13 @@ A productivity-focused browser extension designed to streamline daily workflows 
 **Tech Stack:** React • JavaScript
 
 🔗 **Status:** Currently in development
+
+---
+
+<p align="center">
+
+**Dream. Code. Repeat.**
+
+Building one commit at a time.
+
+</p>
