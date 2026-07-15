@@ -10,11 +10,11 @@
 
 ## About Me
 
-I'm a Frontend Engineer passionate about building responsive, accessible, and high-performance web applications.
+I'm a Frontend Engineer focused on building responsive, accessible, and performant web applications that deliver exceptional user experiences.
 
-I enjoy transforming ideas into polished digital experiences through clean architecture, thoughtful UI, and continuous learning.
+I enjoy transforming ideas into polished digital products through clean architecture, thoughtful UI, and continuous iteration.
 
-Currently focused on shipping real-world projects, deepening my React expertise, and contributing to open source.
+Currently building production-ready projects, deepening my React expertise, and preparing to contribute to open source.
 
 ---
 
