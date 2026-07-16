@@ -70,8 +70,8 @@ A responsive weather application that provides real-time weather conditions, 5-d
 
 **Tech Stack:** React • JavaScript • CSS • Open-Meteo API
 
-🔗 **Live Demo:** *https://weatherly.sa.pipeops.app/*  
-📂 **Source Code:** https://github.com/Xinfinitygen/Weather-App.git
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://weatherly.sa.pipeops.app)
+
 
 ---
 
@@ -80,8 +80,7 @@ A modern registration form featuring real-time validation, error handling, and a
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 **Live Demo:** *https://formzen.sa.pipeops.app/*  
-📂 **Source Code:** https://github.com/Xinfinitygen/Weather-App.git
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](YOUR_LIVE_DEMO_LINK)
 
 ---
 
