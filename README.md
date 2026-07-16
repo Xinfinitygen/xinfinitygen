@@ -53,8 +53,6 @@ Version       : v1.0.0
 
 ## GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xinfinitygen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
