@@ -69,7 +69,7 @@ Version       : v1.0.0
 ### 🌤️ Weather App
 A responsive weather application that provides real-time weather conditions, 5-day forecasts, geolocation support, and search history.
 
-**Tech Stack:** React • JavaScript • CSS • Open-Meteo API
+**Tech Stack:** HTML • CSS • JavaScript • Open-Meteo API
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://weatherly.sa.pipeops.app)
 
@@ -81,14 +81,14 @@ A modern registration form featuring real-time validation, error handling, and a
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](YOUR_LIVE_DEMO_LINK)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://formzen.sa.pipeops.app/)
 
 ---
 
 ### 🧩 Browser Extension *(In Progress)*
 A productivity-focused browser extension designed to streamline daily workflows with a clean, distraction-free interface.
 
-**Tech Stack:** React • JavaScript
+**Tech Stack:** HTML • CSS • JavaScript
 
 🔗 **Status:** Currently in development
 
