@@ -18,16 +18,6 @@ Currently focused on shipping real-world projects, deepening my React expertise,
 
 ---
 
-
-
-
-
-
-
-
-
-
-
 ## Developer OS
 
 ```console
@@ -44,7 +34,6 @@ Next Target   : Open Source Contributions
 
 Version       : v1.0.0
 ```
-
 
 ## Tech Stack
 
@@ -67,16 +56,17 @@ Version       : v1.0.0
 ## 🚀 Featured Projects
 
 ### 🌤️ Weather App
+
 A responsive weather application that provides real-time weather conditions, 5-day forecasts, geolocation support, and search history.
 
 **Tech Stack:** HTML • CSS • JavaScript • Open-Meteo API
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://weatherly.sa.pipeops.app)
 
-
 ---
 
 ### 📝 Form Validation
+
 A modern registration form featuring real-time validation, error handling, and a responsive user interface.
 
 **Tech Stack:** HTML • CSS • JavaScript
@@ -85,13 +75,15 @@ A modern registration form featuring real-time validation, error handling, and a
 
 ---
 
-### 🧩 Browser Extension *(In Progress)*
+### 🧩 Browser Extension 
+
 A productivity-focused browser extension designed to streamline daily workflows with a clean, distraction-free interface.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 **Status:** Currently in development
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://browser-extension-manager.sa.pipeops.app/)
 
+[![Source Code](https://img.shields.io/badge/_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xinfinitygen/Browser-extension-manager-UI.git)
 ---
 
 <p align="center">
