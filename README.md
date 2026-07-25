@@ -83,9 +83,11 @@ A productivity-focused browser extension designed to streamline daily workflows 
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge)](https://browser-extension-manager.sa.pipeops.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Version_1-2563EB?style=for-the-badge)](https://browser-extension-manager.sa.pipeops.app/)
 
-[![Source Code](https://img.shields.io/badge/_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xinfinitygen/Browser-extension-manager-UI.git)
+[![Live Demo](https://img.shields.io/badge/🌐_Version_2-2563EB?style=for-the-badge)](https://xinfinitygen.github.io/browser-extension-manager-v2/)
+
+[![Source Code](https://img.shields.io/badge/_Source_Code_V1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xinfinitygen/Browser-extension-manager-UI.git) [![Source Code](https://img.shields.io/badge/_Source_Code_V2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xinfinitygen/browser-extension-manager-v2.git) 
 ---
 
 <p align="center">
