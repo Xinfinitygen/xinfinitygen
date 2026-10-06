@@ -21,6 +21,7 @@ Currently focused on shipping real-world projects, deepening my React expertise,
 
 
 
+
 ## Developer OS
 
 ```console
@@ -28,10 +29,10 @@ Currently focused on shipping real-world projects, deepening my React expertise,
 
 Name          : Okechukwu
 Role          : Frontend Engineer
-Status        : 🟢 Building...
+Status        : 🟢 Building
 Mission       : Building products people genuinely enjoy using.
 
-Current Build : Product Catalog Single-Page Application
+Current Build : Browser Extension
 Learning      : React • Performance • Accessibility
 Next Target   : Open Source Contributions
 
